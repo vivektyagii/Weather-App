@@ -17,10 +17,9 @@ This project is a weather viewer website created using HTML, CSS, and JavaScript
 
 # Website Preview
    - **Before Search:**
-      ![image](https://github.com/user-attachments/assets/fdf114fd-2aed-41a4-95cb-a801898c2b50)
+      ![image](https://github.com/user-attachments/assets/2e3167f9-7648-4603-a068-67f344f3a6fd)
 
-   - **After Search:**
-      ![image](https://github.com/user-attachments/assets/e5f4fbea-b9c6-42a9-8049-35f51864bda7)
+   - **After Search:**(https://github.com/user-attachments/assets/6595057e-3b42-4e20-8806-bbc736267db0)     
 
 ## Getting Started
 
