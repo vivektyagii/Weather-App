@@ -31,8 +31,7 @@ To run this project locally on your machine:
    git clone https://github.com/chintamani-pala/weather-app-using-html-css-js.git
     ```
 2. **Navigate to the Project Directory:**
-   ```bash
-   cd weather-app-using-html-css-js
+
     ```
 3. **Open the Project:**
    - **Open the index.html file in your web browser.**
