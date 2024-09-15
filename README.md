@@ -30,9 +30,8 @@ To run this project locally on your machine:
    ```bash
    git clone https://github.com/chintamani-pala/weather-app-using-html-css-js.git
     ```
-2. **Navigate to the Project Directory:**
+2. **Navigate to the Project Directory:
 
-    ```
 3. **Open the Project:**
    - **Open the index.html file in your web browser.**
 # Usage
