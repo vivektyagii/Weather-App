@@ -28,7 +28,7 @@ To run this project locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/chintamani-pala/weather-app-using-html-css-js.git
+   git clone https://github.com/vivektyagii/Weather-App
     ```
 2. **Navigate to the Project Directory:**
    ```bash
